@@ -1,4 +1,7 @@
+from app import app
 
 
-print('hi')
-print('world')
+if __name__ in '__main__':
+    app.run()
+
+
